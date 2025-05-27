@@ -30,7 +30,7 @@ plugins:
 # Author profile
 author:
   name   : "Geny Macedo"
-  avatar : "/assets/images/bio-photo1.jpg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "DevOps Engineer focused on automation, Kubernetes, and cloud infrastructure. Advocate for secure and scalable systems."
   links:
     - label: "GitHub"
